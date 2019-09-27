@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b097e79e-1bfb-43dc-ba69-3e91a354b56d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QW5b2NJJ07FyO4ls1ebnQq9bwd" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.9.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/02-06.js" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.02-02express.js">
+    <configuration name="02-01express.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="02-01express.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="02-02express.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="02-02express.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="02-03express.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="02-03express.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="02-04.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="02-04.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="02-05.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="02-05.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="02-06.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="02-06.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.02-04.js" />
+      <item itemvalue="Node.js.02-05.js" />
+      <item itemvalue="Node.js.02-06.js" />
+      <item itemvalue="Node.js.02-01express.js" />
+      <item itemvalue="Node.js.02-02express.js" />
+      <item itemvalue="Node.js.02-03express.js" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b097e79e-1bfb-43dc-ba69-3e91a354b56d" name="Default Changelist" comment="" />
+      <created>1567873579984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567873579984</updated>
+      <workItem from="1567873583376" duration="2627000" />
+      <workItem from="1568359939501" duration="638000" />
+      <workItem from="1568368015462" duration="39000" />
+      <workItem from="1568439314662" duration="45000" />
+      <workItem from="1568898024150" duration="3550000" />
+      <workItem from="1568956133921" duration="13193000" />
+      <workItem from="1569044062786" duration="1235000" />
+      <workItem from="1569156368109" duration="597000" />
+      <workItem from="1569245190976" duration="1243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

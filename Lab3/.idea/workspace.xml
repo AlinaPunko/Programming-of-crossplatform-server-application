@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9dd9bc4c-afec-451b-89a3-c4c54484c537" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R703SlOSqZhMAucJNHRJ9MXh5g" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03-05.js" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.03-03.js">
+    <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/Lab3/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="03-01.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="03-01.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="03-02.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="03-02.js" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+        <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <configuration name="03-03.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="03-03.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="03-04.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="03-04.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="03-05.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="03-05.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="Node.js.03-03.js" />
+      <item itemvalue="Node.js.03-04.js" />
+      <item itemvalue="Node.js.03-01.js" />
+      <item itemvalue="Node.js.03-05.js" />
+      <item itemvalue="Node.js.03-02.js" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dd9bc4c-afec-451b-89a3-c4c54484c537" name="Default Changelist" comment="" />
+      <created>1569002634980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569002634980</updated>
+      <workItem from="1569002648917" duration="994000" />
+      <workItem from="1569248585495" duration="6646000" />
+      <workItem from="1569335152240" duration="4314000" />
+      <workItem from="1569388807260" duration="1335000" />
+      <workItem from="1569481090832" duration="1159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="url.parse(request.url).pathname" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
